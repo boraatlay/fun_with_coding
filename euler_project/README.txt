@@ -1,0 +1,1 @@
+- I like to challenge myself. Sometimes on my bike sometimes. with coding challenges. Ok, I admit that I challenge myself mostly on my bike. But coding challenges are fun as much as riding bike. In this folder you will find my solutions to coding challenges from projecteuler.net. Cheers!
