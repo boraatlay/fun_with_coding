@@ -5,7 +5,7 @@
 # 02.06.2021
 
 #########################
-
+import time
 
 def isPrime(num):
     flag = False

@@ -98,14 +98,16 @@ while True:
     
     the_board = [' ']*10
     
+    
+    
     player1_marker, player2_marker = player_input()
 
     turn = first_player()
     print(turn + ' will go first...')
     
-    get_started = input('Ready to play? Y or N?').upper()
+    play_game = input('Ready to play? Y or N?').upper()
     
-    if get_started == 'Y':
+    if play_game == 'Y':
         game_on = True
     else:
         game_on = False
